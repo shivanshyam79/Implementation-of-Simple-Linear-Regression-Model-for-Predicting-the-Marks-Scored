@@ -66,23 +66,24 @@ rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
 ## Output:
-## Dataset
-![dataset](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/8f6358d6-74a0-40b4-a88b-ac723b71f1f2)
-## Head Values
-![head](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/941f8428-1463-4d50-842c-02dddf1f8c95)
-## Tail Values
-![tail](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/1b4f95d4-459c-4b16-a0c6-3901e9fbfbcb)
-## X and Y values
-![xyvalues](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/85242e23-27f9-4977-99e7-4891c5b6f67b)
-## predication values of X and Y
-![predict ](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/107747e0-e7b5-46c7-b7ec-064e3c5c8af0)
-## MSE,MAE and RMSE
-![values](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/781388a5-ab68-4cc3-b2e4-53d750dbd780)
-## Training Set
-![train](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/51e8ce78-2f50-46de-bb8b-02e5397c80f5)
-## Testing Set
-![test](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/07f145ad-5c13-4823-9ba3-55770cd656d9)
-
+## df.head()
+![263019075-db934862-eeeb-462b-aeb7-28b869113226](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/c2636c6f-9b15-4c61-b9b6-a7a2be08690e)
+## df.tail()
+![263019181-42e2a9f0-638c-40c5-9ab7-1ebc5b593d69](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/f6ebe1da-17ff-4cb0-ab76-d5e391e90b62)
+## ARRAY VALUE OF X
+![263019904-86c89c69-0df7-499e-9805-88444385fd12](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/122559c6-e8ae-4c3e-93c8-df1437572be3)
+## ARRAY VALUE OF Y
+![263022408-9afae483-751b-4a77-be53-0c2cc3e73204](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/655304e9-1ca7-4d1c-98a2-2d32cc5f212e)
+## VALUES OF Y PREDICTION
+![263025081-34ad6afe-5ee1-47bc-a293-e104dc4c0ccb](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/ae22943e-b183-4935-b9f6-d78f9e77e830)
+## ARRAY VALUES OF Y TEST
+![263025992-f7be3dfb-b4b5-44d7-9ca3-06812f202b9f](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/1d4f3719-fd73-4bb1-9da3-53d7473f08e9)
+## TRAINING SET GRAPH
+![263026832-82141809-4794-44e3-a164-aa8991f22e23](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/2195d499-3285-4b3c-8f1f-4cf1e8d99601)
+## TEST SET GRAPH
+![263027531-15efd5e6-ebfd-4d31-97ae-0ad2d1295a2c](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/0dc8260e-bd30-4247-bd4d-935e095c0956)
+## VALUES OF MSE,MAE AND RMSE
+![263028721-6793057c-b446-4e92-b11d-bdf3cba4a17b](https://github.com/shivanshyam79/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/151513860/dbbc264b-54ef-4742-8fa7-735f00891871)
 
 
 
